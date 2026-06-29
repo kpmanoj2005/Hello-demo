@@ -1,3 +1,2 @@
 Hello world
-This is vs code
-this is new change
+This is VS code
